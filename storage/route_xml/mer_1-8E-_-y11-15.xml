@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2023-07-20T21:51:01.7579308+01:00" ModificationDateTime="2023-07-20T21:51:01.7579308+01:00" Modification="new" FileName="mer_1-8E-_-y11-15.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0057850</NptgLocalityRef>
+			<LocalityName>Liverpool</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0029834</NptgLocalityRef>
+			<LocalityName>Old Swan</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0029695</NptgLocalityRef>
+			<LocalityName>Fairfield (Mersyd)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0029763</NptgLocalityRef>
+			<LocalityName>Kensington (Mersyd)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2017-01-04T00:00:00">
+			<AtcoCode>2800S42057C</AtcoCode>
+			<Descriptor>
+				<CommonName>Fraser Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057850</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.976676</Longitude>
+					<Latitude>53.409401</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Fraser Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-01-13T00:00:00">
+			<AtcoCode>2800S42015E</AtcoCode>
+			<Descriptor>
+				<CommonName>Pembroke Place</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057850</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.97285</Longitude>
+					<Latitude>53.409189</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Pembroke Place</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2023-03-14T00:00:00">
+			<AtcoCode>2800S42016B</AtcoCode>
+			<Descriptor>
+				<CommonName>Epworth Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057850</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.966188</Longitude>
+					<Latitude>53.410628</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Epworth Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2019-11-29T00:00:00">
+			<AtcoCode>2800S41031E</AtcoCode>
+			<Descriptor>
+				<CommonName>Swan Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0029834</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.920512</Longitude>
+					<Latitude>53.415411</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Swan Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-11-01T00:00:00">
+			<AtcoCode>2800S41027B</AtcoCode>
+			<Descriptor>
+				<CommonName>Onslow Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0029695</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.941327</Longitude>
+					<Latitude>53.412957</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Onslow Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-11-01T00:00:00">
+			<AtcoCode>2800S41026D</AtcoCode>
+			<Descriptor>
+				<CommonName>Romer Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0029695</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.945659</Longitude>
+					<Latitude>53.412239</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Romer Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-11-01T00:00:00">
+			<AtcoCode>2800S41030B</AtcoCode>
+			<Descriptor>
+				<CommonName>Newton Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0029834</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.927677</Longitude>
+					<Latitude>53.414834</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Newton Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-11-01T00:00:00">
+			<AtcoCode>2800S41029A</AtcoCode>
+			<Descriptor>
+				<CommonName>Prescot Drive</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0029695</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.931639</Longitude>
+					<Latitude>53.414417</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Prescot Drive</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2023-03-28T00:00:00">
+			<AtcoCode>2800S41028B</AtcoCode>
+			<Descriptor>
+				<CommonName>Holland Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0029763</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.935272</Longitude>
+					<Latitude>53.41402</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Holland Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-10-31T00:00:00">
+			<AtcoCode>2800S41023B</AtcoCode>
+			<Descriptor>
+				<CommonName>Low Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0029763</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.960393</Longitude>
+					<Latitude>53.411151</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Low Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-11-01T00:00:00">
+			<AtcoCode>2800S41025B</AtcoCode>
+			<Descriptor>
+				<CommonName>Grantham Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0029763</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.949163</Longitude>
+					<Latitude>53.412193</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Grantham Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-10-31T00:00:00">
+			<AtcoCode>2800S41024B</AtcoCode>
+			<Descriptor>
+				<CommonName>Leopold Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0029763</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.955114</Longitude>
+					<Latitude>53.411885</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Leopold Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-11T00:00:00">
+			<AtcoCode>2800S42023B</AtcoCode>
+			<Descriptor>
+				<CommonName>Queen Square Bus Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057850</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.983508</Longitude>
+					<Latitude>53.407565</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Queen Square Bus Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-11-17T00:00:00">
+			<AtcoCode>2800S41142A</AtcoCode>
+			<Descriptor>
+				<CommonName>Cheadle Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0029834</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.922902</Longitude>
+					<Latitude>53.415312</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Cheadle Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2022-11-09T00:00:00">
+			<AtcoCode>2800S41225A</AtcoCode>
+			<Descriptor>
+				<CommonName>Low Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057850</NptgLocalityRef>
+				<Location>
+					<Longitude>-2.964432</Longitude>
+					<Latitude>53.410804</Latitude>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Low Hill</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_1-8E-_-y11-15-O-1">
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-1">
+				<From>
+					<StopPointRef>2800S42023B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S42057C</StopPointRef>
+				</To>
+				<Distance>564</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.983537</Longitude>
+							<Latitude>53.407493</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.983416</Longitude>
+							<Latitude>53.407467</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.982827</Longitude>
+							<Latitude>53.407382</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.982482</Longitude>
+							<Latitude>53.407411</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.981869</Longitude>
+							<Latitude>53.407596</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.98117</Longitude>
+							<Latitude>53.407917</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.98099</Longitude>
+							<Latitude>53.407954</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.98081</Longitude>
+							<Latitude>53.407956</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.980175</Longitude>
+							<Latitude>53.407844</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.979543</Longitude>
+							<Latitude>53.407831</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.979068</Longitude>
+							<Latitude>53.408734</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.978733</Longitude>
+							<Latitude>53.40924</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.978555</Longitude>
+							<Latitude>53.409358</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.977472</Longitude>
+							<Latitude>53.409331</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.977336</Longitude>
+							<Latitude>53.409332</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.97693</Longitude>
+							<Latitude>53.409318</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.976674</Longitude>
+							<Latitude>53.40932</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-2">
+				<From>
+					<StopPointRef>2800S42057C</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S42015E</StopPointRef>
+				</To>
+				<Distance>256</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.976674</Longitude>
+							<Latitude>53.40932</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.976343</Longitude>
+							<Latitude>53.409314</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.975696</Longitude>
+							<Latitude>53.40931</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.975335</Longitude>
+							<Latitude>53.409304</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.974749</Longitude>
+							<Latitude>53.409327</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.974598</Longitude>
+							<Latitude>53.409328</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.974086</Longitude>
+							<Latitude>53.409287</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.973889</Longitude>
+							<Latitude>53.409217</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.973723</Longitude>
+							<Latitude>53.4092</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.973285</Longitude>
+							<Latitude>53.409141</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.973089</Longitude>
+							<Latitude>53.409124</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.972878</Longitude>
+							<Latitude>53.409099</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-3">
+				<From>
+					<StopPointRef>2800S42015E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S42016B</StopPointRef>
+				</To>
+				<Distance>564</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.972878</Longitude>
+							<Latitude>53.409099</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.971852</Longitude>
+							<Latitude>53.408982</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.971295</Longitude>
+							<Latitude>53.408932</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.970963</Longitude>
+							<Latitude>53.408899</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.970545</Longitude>
+							<Latitude>53.409028</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.970516</Longitude>
+							<Latitude>53.409091</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.970563</Longitude>
+							<Latitude>53.409181</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.970689</Longitude>
+							<Latitude>53.409414</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.970782</Longitude>
+							<Latitude>53.409566</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.970816</Longitude>
+							<Latitude>53.409709</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.970308</Longitude>
+							<Latitude>53.409857</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.969739</Longitude>
+							<Latitude>53.409979</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.96929</Longitude>
+							<Latitude>53.410072</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.9692</Longitude>
+							<Latitude>53.410091</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.968197</Longitude>
+							<Latitude>53.410306</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.967763</Longitude>
+							<Latitude>53.410399</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.966697</Longitude>
+							<Latitude>53.410507</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.966171</Longitude>
+							<Latitude>53.410547</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-4">
+				<From>
+					<StopPointRef>2800S42016B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41225A</StopPointRef>
+				</To>
+				<Distance>118</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.966171</Longitude>
+							<Latitude>53.410547</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.965796</Longitude>
+							<Latitude>53.410577</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.965255</Longitude>
+							<Latitude>53.410617</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.965015</Longitude>
+							<Latitude>53.410637</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.964805</Longitude>
+							<Latitude>53.410657</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.964414</Longitude>
+							<Latitude>53.410687</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-5">
+				<From>
+					<StopPointRef>2800S41225A</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41023B</StopPointRef>
+				</To>
+				<Distance>273</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.964414</Longitude>
+							<Latitude>53.410687</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.961756</Longitude>
+							<Latitude>53.410879</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.961515</Longitude>
+							<Latitude>53.41089</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.961245</Longitude>
+							<Latitude>53.410919</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.960361</Longitude>
+							<Latitude>53.411061</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-6">
+				<From>
+					<StopPointRef>2800S41023B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41024B</StopPointRef>
+				</To>
+				<Distance>360</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.960361</Longitude>
+							<Latitude>53.411061</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.958577</Longitude>
+							<Latitude>53.411354</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.958277</Longitude>
+							<Latitude>53.411401</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.957633</Longitude>
+							<Latitude>53.411524</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.957003</Longitude>
+							<Latitude>53.411618</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.956688</Longitude>
+							<Latitude>53.411657</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.956313</Longitude>
+							<Latitude>53.411696</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.956118</Longitude>
+							<Latitude>53.411724</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.955938</Longitude>
+							<Latitude>53.411726</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.955667</Longitude>
+							<Latitude>53.411746</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.955517</Longitude>
+							<Latitude>53.411756</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.955096</Longitude>
+							<Latitude>53.411778</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-7">
+				<From>
+					<StopPointRef>2800S41024B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41025B</StopPointRef>
+				</To>
+				<Distance>396</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.955096</Longitude>
+							<Latitude>53.411778</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.954991</Longitude>
+							<Latitude>53.411787</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.954901</Longitude>
+							<Latitude>53.411788</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.954315</Longitude>
+							<Latitude>53.411802</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.953668</Longitude>
+							<Latitude>53.411834</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.953052</Longitude>
+							<Latitude>53.411848</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.952376</Longitude>
+							<Latitude>53.41188</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.9517</Longitude>
+							<Latitude>53.411931</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.951339</Longitude>
+							<Latitude>53.41196</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.951039</Longitude>
+							<Latitude>53.411981</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.950708</Longitude>
+							<Latitude>53.412001</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.950543</Longitude>
+							<Latitude>53.412012</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.950182</Longitude>
+							<Latitude>53.412032</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.950047</Longitude>
+							<Latitude>53.412043</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.949506</Longitude>
+							<Latitude>53.412074</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.949386</Longitude>
+							<Latitude>53.412084</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.949161</Longitude>
+							<Latitude>53.412086</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-8">
+				<From>
+					<StopPointRef>2800S41025B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41026D</StopPointRef>
+				</To>
+				<Distance>234</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.949161</Longitude>
+							<Latitude>53.412086</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.948845</Longitude>
+							<Latitude>53.412097</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.948574</Longitude>
+							<Latitude>53.412099</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.948213</Longitude>
+							<Latitude>53.412102</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.947957</Longitude>
+							<Latitude>53.412104</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.947566</Longitude>
+							<Latitude>53.412098</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.94692</Longitude>
+							<Latitude>53.412112</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.946243</Longitude>
+							<Latitude>53.412118</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.946167</Longitude>
+							<Latitude>53.412118</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.945642</Longitude>
+							<Latitude>53.412149</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-9">
+				<From>
+					<StopPointRef>2800S41026D</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41027B</StopPointRef>
+				</To>
+				<Distance>301</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.945642</Longitude>
+							<Latitude>53.412149</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.945266</Longitude>
+							<Latitude>53.41217</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.944321</Longitude>
+							<Latitude>53.412286</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.943452</Longitude>
+							<Latitude>53.412454</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.942897</Longitude>
+							<Latitude>53.412558</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.942538</Longitude>
+							<Latitude>53.412623</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.941998</Longitude>
+							<Latitude>53.412718</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.941669</Longitude>
+							<Latitude>53.412783</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.941279</Longitude>
+							<Latitude>53.412849</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-10">
+				<From>
+					<StopPointRef>2800S41027B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41028B</StopPointRef>
+				</To>
+				<Distance>421</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.941279</Longitude>
+							<Latitude>53.412849</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.941054</Longitude>
+							<Latitude>53.412887</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.94089</Longitude>
+							<Latitude>53.412933</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.9405</Longitude>
+							<Latitude>53.412981</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.940155</Longitude>
+							<Latitude>53.413038</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.940035</Longitude>
+							<Latitude>53.413057</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.939675</Longitude>
+							<Latitude>53.413122</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.93939</Longitude>
+							<Latitude>53.41317</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.938386</Longitude>
+							<Latitude>53.413339</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.937862</Longitude>
+							<Latitude>53.413433</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.937037</Longitude>
+							<Latitude>53.413566</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.936827</Longitude>
+							<Latitude>53.413603</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.936048</Longitude>
+							<Latitude>53.413753</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.935883</Longitude>
+							<Latitude>53.413781</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.935404</Longitude>
+							<Latitude>53.413866</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.935194</Longitude>
+							<Latitude>53.413904</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-11">
+				<From>
+					<StopPointRef>2800S41028B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41029A</StopPointRef>
+				</To>
+				<Distance>243</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.935194</Longitude>
+							<Latitude>53.413904</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.934714</Longitude>
+							<Latitude>53.413988</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.933979</Longitude>
+							<Latitude>53.414093</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.933334</Longitude>
+							<Latitude>53.414161</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.932523</Longitude>
+							<Latitude>53.414239</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.931607</Longitude>
+							<Latitude>53.414327</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-12">
+				<From>
+					<StopPointRef>2800S41029A</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41030B</StopPointRef>
+				</To>
+				<Distance>268</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.931607</Longitude>
+							<Latitude>53.414327</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.931577</Longitude>
+							<Latitude>53.414327</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.930871</Longitude>
+							<Latitude>53.414378</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.930436</Longitude>
+							<Latitude>53.414417</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.92997</Longitude>
+							<Latitude>53.414457</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.92928</Longitude>
+							<Latitude>53.414534</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.928769</Longitude>
+							<Latitude>53.414583</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.928499</Longitude>
+							<Latitude>53.414612</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.928049</Longitude>
+							<Latitude>53.414661</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.927659</Longitude>
+							<Latitude>53.414718</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.927629</Longitude>
+							<Latitude>53.414727</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-13">
+				<From>
+					<StopPointRef>2800S41030B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41142A</StopPointRef>
+				</To>
+				<Distance>321</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.927629</Longitude>
+							<Latitude>53.414727</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.927494</Longitude>
+							<Latitude>53.414746</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.926925</Longitude>
+							<Latitude>53.414849</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.92634</Longitude>
+							<Latitude>53.414943</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.925289</Longitude>
+							<Latitude>53.41506</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.924719</Longitude>
+							<Latitude>53.415109</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.924523</Longitude>
+							<Latitude>53.415119</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.923952</Longitude>
+							<Latitude>53.415151</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.923666</Longitude>
+							<Latitude>53.415162</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.923201</Longitude>
+							<Latitude>53.415184</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.922885</Longitude>
+							<Latitude>53.415195</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+			<RouteLink id="RL_1-8E-_-y11-15-O-1-14">
+				<From>
+					<StopPointRef>2800S41142A</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>2800S41031E</StopPointRef>
+				</To>
+				<Distance>158</Distance>
+				<Direction>outbound</Direction>
+				<Track>
+					<Mapping>
+						<Location>
+							<Longitude>-2.922885</Longitude>
+							<Latitude>53.415195</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.922629</Longitude>
+							<Latitude>53.415206</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.922494</Longitude>
+							<Latitude>53.415207</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.921848</Longitude>
+							<Latitude>53.415239</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.921442</Longitude>
+							<Latitude>53.41526</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.921216</Longitude>
+							<Latitude>53.415271</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.920766</Longitude>
+							<Latitude>53.415301</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.92066</Longitude>
+							<Latitude>53.415302</Latitude>
+						</Location>
+						<Location>
+							<Longitude>-2.92051</Longitude>
+							<Latitude>53.415303</Latitude>
+						</Location>
+					</Mapping>
+				</Track>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_1-8E-_-y11-15-O-1">
+			<PrivateCode>R_1-8E-_-y11-15-O-1</PrivateCode>
+			<Description>Queen Square Bus Station - Old Swan / Swan Street</Description>
+			<RouteSectionRef>RS_1-8E-_-y11-15-O-1</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_1-8E-_-y11-15-1-1-O">
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S42023B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S42057C</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-1</RouteLinkRef>
+				<RunTime>PT2M38S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S42057C</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S42015E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-2</RouteLinkRef>
+				<RunTime>PT1M8S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S42015E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S42016B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-3</RouteLinkRef>
+				<RunTime>PT2M30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S42016B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41225A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-4</RouteLinkRef>
+				<RunTime>PT31S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41225A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41023B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-5</RouteLinkRef>
+				<RunTime>PT1M13S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41023B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41024B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-6</RouteLinkRef>
+				<RunTime>PT47S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41024B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41025B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-7</RouteLinkRef>
+				<RunTime>PT53S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41025B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41026D</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-8</RouteLinkRef>
+				<RunTime>PT31S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41026D</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41027B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-9</RouteLinkRef>
+				<RunTime>PT41S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41027B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41028B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-10</RouteLinkRef>
+				<RunTime>PT56S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41028B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41029A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-11</RouteLinkRef>
+				<RunTime>PT32S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41029A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41030B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-12</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41030B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41142A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-13</RouteLinkRef>
+				<RunTime>PT42S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_1-8E-_-y11-15-1-O-1-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41142A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>setDown</Activity>
+					<DynamicDestinationDisplay>Old Swan</DynamicDestinationDisplay>
+					<StopPointRef>2800S41031E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_1-8E-_-y11-15-O-1-14</RouteLinkRef>
+				<RunTime>PT22S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_2411">
+			<NationalOperatorCode>AMSY</NationalOperatorCode>
+			<OperatorCode>2411</OperatorCode>
+			<OperatorShortName>Arriva Merseyside</OperatorShortName>
+			<OperatorNameOnLicence>Arriva Merseyside</OperatorNameOnLicence>
+			<TradingName>Arriva Merseyside</TradingName>
+			<LicenceNumber>PC0001141</LicenceNumber>
+			<LicenceClassification>standardNational</LicenceClassification>
+			<OperatorAddresses>
+				<CorrespondenceAddress>
+					<Line xmlns="http://www.govtalk.gov.uk/people/AddressAndPersonalDetails">90 Laird Street</Line>
+					<Line xmlns="http://www.govtalk.gov.uk/people/AddressAndPersonalDetails">Birkenhead</Line>
+					<Line xmlns="http://www.govtalk.gov.uk/people/AddressAndPersonalDetails">Merseyside</Line>
+					<Line xmlns="http://www.govtalk.gov.uk/people/AddressAndPersonalDetails">CH41 8ES</Line>
+				</CorrespondenceAddress>
+			</OperatorAddresses>
+			<Garages>
+				<Garage>
+					<GarageCode>BH</GarageCode>
+					<GarageName>BIRKENHEAD GARAGE</GarageName>
+					<Location>
+						<Longitude>-3.0171</Longitude>
+						<Latitude>53.390555</Latitude>
+					</Location>
+				</Garage>
+				<Garage>
+					<GarageCode>BOO</GarageCode>
+					<GarageName>Bootle Garage</GarageName>
+					<Location>
+						<Longitude>-2.994523</Longitude>
+						<Latitude>53.45151</Latitude>
+					</Location>
+				</Garage>
+				<Garage>
+					<GarageCode>GRE</GarageCode>
+					<GarageName>Green Lane Garage</GarageName>
+					<Location>
+						<Longitude>0</Longitude>
+						<Latitude>0</Latitude>
+					</Location>
+				</Garage>
+				<Garage>
+					<GarageCode>HUYTG</GarageCode>
+					<GarageName>Huyton Gar</GarageName>
+					<Location>
+						<Longitude>0</Longitude>
+						<Latitude>0</Latitude>
+					</Location>
+				</Garage>
+				<Garage>
+					<GarageCode>SPK</GarageCode>
+					<GarageName>Speke Garage</GarageName>
+					<Location>
+						<Longitude>-2.844793</Longitude>
+						<Latitude>53.34433</Latitude>
+					</Location>
+				</Garage>
+				<Garage>
+					<GarageCode>SPT</GarageCode>
+					<GarageName>Southport Garage</GarageName>
+					<Location>
+						<Longitude>-3.004961</Longitude>
+						<Latitude>53.646532</Latitude>
+					</Location>
+				</Garage>
+				<Garage>
+					<GarageCode>STH</GarageCode>
+					<GarageName>ST HELENS GARAGE</GarageName>
+					<Location>
+						<Longitude>0</Longitude>
+						<Latitude>0</Latitude>
+					</Location>
+				</Garage>
+			</Garages>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>1-8E-_-y11-15</ServiceCode>
+			<PrivateCode>1-8E-_-y11-15</PrivateCode>
+			<Lines>
+				<Line id="1-8E-_-y11-15">
+					<LineName>8E</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2023-04-17</StartDate>
+				<EndDate>2024-12-31</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_2411</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<StandardService>
+				<Origin>Queen Square Bus Station</Origin>
+				<Destination>Old Swan / Swan Street</Destination>
+				<JourneyPattern id="JP_1-8E-_-y11-15-1-O-1">
+					<DestinationDisplay>Old Swan</DestinationDisplay>
+					<Direction>outbound</Direction>
+					<RouteRef>R_1-8E-_-y11-15-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_1-8E-_-y11-15-1-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>mer-1-8E-_-y11-15-1-T0</PrivateCode>
+			<Operational>
+				<Block>
+					<Description>1733</Description>
+					<BlockNumber>1733</BlockNumber>
+				</Block>
+				<TicketMachine>
+					<TicketMachineServiceCode>8E</TicketMachineServiceCode>
+					<JourneyCode>1055</JourneyCode>
+				</TicketMachine>
+			</Operational>
+			<GarageRef>GRE</GarageRef>
+			<VehicleJourneyCode>VJ_1-8E-_-y11-15-1-T0</VehicleJourneyCode>
+			<ServiceRef>1-8E-_-y11-15</ServiceRef>
+			<LineRef>1-8E-_-y11-15</LineRef>
+			<JourneyPatternRef>JP_1-8E-_-y11-15-1-O-1</JourneyPatternRef>
+			<DepartureTime>19:35:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>
